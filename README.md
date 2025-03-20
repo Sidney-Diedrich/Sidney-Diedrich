@@ -13,12 +13,7 @@
 
 ---
 
-### 📊 GitHub-Statistiken
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sidney-Diedrich&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney-Diedrich&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### ⚡ Tech Stack
 
