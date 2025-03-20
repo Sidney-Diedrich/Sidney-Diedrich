@@ -9,7 +9,7 @@
 - 📚 **Ich lerne gerade:** Programmierung & JavaScript 👨‍💻  
 - 📸 **Hobbys:** Fotografie & Natur genießen 🌿  
 - 🎨 **Kreativität:** Ich liebe es, Neues zu erschaffen und kreativ zu sein! ✨  
-- 🌍 **Mehr über mich:** [LinkedIn](https://www.linkedin.com/in/sidney-diedrich)  
+- 🌍 **Mehr über mich:** [LinkedIn]https://www.linkedin.com/in/sidney-diedrich-7169a4317/ 
 
 ---
 
