@@ -1,31 +1,45 @@
-### Hi, ich bin Sidney! 👋
+# Hi, ich bin Sidney 👋
 
-![Animated Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&center=true&vCenter=true&width=500&height=40&lines=Angehender+Programmierer;Lerne+JavaScript+%26+mehr;Kreativ%2C+Abenteuerlustig+%26+Naturverbunden!)
-
----
-
-### 🚀 Über mich
-
-- 📚 **Ich lerne gerade:** Programmierung & JavaScript 👨‍💻  
-- 📸 **Hobbys:** Fotografie & Natur genießen 🌿  
-- 🎨 **Kreativität:** Ich liebe es, Neues zu erschaffen und kreativ zu sein! ✨  
-- 🌍 **Mehr über mich:** [LinkedIn]https://www.linkedin.com/in/sidney-diedrich-7169a4317/ 
+🚀 Junior Web Developer | Fokus Frontend Development
 
 ---
 
+## 👨‍💻 Über mich
 
-
-### ⚡ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 📫 Kontakt
-
-
-- 💼 **LinkedIn:**https://www.linkedin.com/in/sidney-diedrich-7169a4317/
+- 📚 Aktuell lerne ich Web Development (HTML, CSS, JavaScript, React)
+- 💡 Ich baue erste eigene Projekte und erweitere kontinuierlich meine Fähigkeiten
+- 🎨 Ich interessiere mich für kreative, moderne Webanwendungen
+- 🤖 Besonders spannend finde ich auch den Bereich KI & moderne Technologien
+- 🌍 Ziel: Junior Web Developer (Remote oder Deutschland)
 
 ---
 
-**✨ Ich freue mich darauf, Neues zu lernen & spannende Projekte zu gestalten! 🚀**
+## ⚡ Tech Stack (im Aufbau)
+
+- HTML
+- CSS
+- JavaScript
+- React (Learning in progress)
+- Git & GitHub
+
+---
+
+## 📂 Projekte
+
+Hier findest du eine Auswahl meiner bisherigen Projekte:
+
+- 🧩 myFirstProject – erste Schritte mit HTML/CSS/JS  
+- 💡 newProject – Lernprojekt zur Vertiefung meiner Fähigkeiten  
+- 🎯 Erstes-Projekt – Basis Web Development Übungen  
+
+👉 Mehr Projekte folgen kontinuierlich
+
+---
+
+## 📫 Kontakt
+
+- 💼 LinkedIn: [Sidney Diedrich](https://www.linkedin.com/in/sidney-diedrich-7169a4317/)
+
+---
+
+✨ Ich entwickle meine Fähigkeiten kontinuierlich weiter und freue mich über Austausch, neue Kontakte und spannende Projekte 🚀
